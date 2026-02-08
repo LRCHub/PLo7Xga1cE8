@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Great Days",
+  "base_artist": "青木カレン & ハセガワダイスケ",
+  "createdAt": "2026-02-08T01:51:49.073683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Great Days For The Passenger Element",
+      "artist": "Autolux",
+      "has_synced": true,
+      "path": "select/01_Great_Days_For_The_Passenger_Element_Autolux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "Karen Aoki feat. ハセガワダイスケ",
+      "has_synced": false,
+      "path": "select/02_Great_Days_Karen_Aoki_feat._ハセガワダイスケ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Great Days -English Ver.-",
+      "artist": "青木カレン & ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/03_Great_Days_-English_Ver.-_青木カレン_&_ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Great Days -English Ver.-",
+      "artist": "Karen Aoki, Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/04_Great_Days_-English_Ver.-_Karen_Aoki,_Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "青木カレン & ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/05_Great_Days_青木カレン_&_ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "Karen Aoki, Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/06_Great_Days_Karen_Aoki,_Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Great Days Units Ver.",
+      "artist": "JO☆UNITED",
+      "has_synced": true,
+      "path": "select/07_Great_Days_Units_Ver._JO☆UNITED.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Great Days -UNITS Ver.-",
+      "artist": "JO☆UNITED (Hiroaki \"TOMMY\" Tominaga, Coda, Jin Hashimoto, Jun Shirota, Taisuke Wada, Jeity, batta, Karen Aoki, Daisuke Hasegawa), Yugo Kanno, Endcape",
+      "has_synced": true,
+      "path": "select/08_Great_Days_-UNITS_Ver.-_JO☆UNITED_(Hiroaki__TOMMY__Tominaga,_Coda,_Jin_Hashimoto,_Jun_Shirota,_Taisuke_W.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Great Days -English Ver.-",
+      "artist": "青木カレン・ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/09_Great_Days_-English_Ver.-_青木カレン・ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "Jonathan Young",
+      "has_synced": false,
+      "path": "select/10_Great_Days_Jonathan_Young.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "青木カレン・ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/11_Great_Days_青木カレン・ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Great Days Units Ver.",
+      "artist": "JO☆UNITED",
+      "has_synced": true,
+      "path": "select/12_Great_Days_Units_Ver._JO☆UNITED.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Great Days Units Ver. Instrumental",
+      "artist": "JO☆UNITED",
+      "has_synced": true,
+      "path": "select/13_Great_Days_Units_Ver._Instrumental_JO☆UNITED.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Great Days Units Ver．",
+      "artist": "JO☆UNITED(富永TOMMY弘明/Coda/橋本仁/城田純/和田泰右/Jeity/ホシノタツ/青木カレン/ハセガワダイスケ)",
+      "has_synced": true,
+      "path": "select/14_Great_Days_Units_Ver._JO☆UNITED(富永TOMMY弘明_Coda_橋本仁_城田純_和田泰右_Jeity_ホシノタツ_青木カレン_ハセガワダイスケ).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "Karen Aoki, Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/15_Great_Days_Karen_Aoki,_Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Great Days -UNITS Ver.-",
+      "artist": "JO☆UNITED (Hiroaki \"TOMMY\" Tominaga, Coda, Jin Hashimoto, Jun Shirota, Taisuke Wada, Jeity, batta, Karen Aoki, Daisuke Hasegawa)",
+      "has_synced": true,
+      "path": "select/16_Great_Days_-UNITS_Ver.-_JO☆UNITED_(Hiroaki__TOMMY__Tominaga,_Coda,_Jin_Hashimoto,_Jun_Shirota,_Taisuke_W.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Great Days",
+      "artist": "Tsuko G.",
+      "has_synced": true,
+      "path": "select/17_Great_Days_Tsuko_G..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Great Days",
+      "artist": "青木カレン, ハセガワダイスケ",
+      "has_synced": false,
+      "path": "select/pl_01_Great_Days_青木カレン,_ハセガワダイスケ.txt"
+    }
+  ]
+}
